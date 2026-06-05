@@ -1,6 +1,6 @@
 <!-- ====== HEADER BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vishva%20Teja%20Janne&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=60&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%2C%20I'm%20Vishva%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=60&descSize=18" alt="header" />
 </p>
 
 <!-- ====== TYPING SUBTITLE ====== -->
@@ -139,14 +139,6 @@ Plus private work on **crypto / Kraken trading infra** (real-time market data, a
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishvaAllen&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
