@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/Based_in-Italy_🇮🇹-008C45?style=flat-square" />
   <img src="https://img.shields.io/badge/Open_to-Collaborations-7B42BC?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-AI_%2B_Trading_Infra-F46800?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=VishvaAllen&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://img.shields.io/badge/Solo_Builder-Multiple_SaaS-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-resumeveloce.com-0a66c2?style=flat-square" />
 </p>
 
 ---
