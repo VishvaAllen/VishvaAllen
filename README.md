@@ -1,112 +1,170 @@
-<h1 align="center">Hi, I'm Vishva 👋</h1>
+<!-- ====== HEADER BANNER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Vishva%20Teja%20Janne&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=60&descSize=18" alt="header" />
+</p>
 
+<!-- ====== TYPING SUBTITLE ====== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%E2%80%A2+Data+%E2%80%A2+AI;Shipping+real-time+systems+on+Azure;Builder+of+resumeveloce.com;Crypto+and+trading+infra+%7C+Python+%2B+React" alt="typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Shipping+real-time+systems+on+Azure;Builder+of+resumeveloce.com;Crypto+and+trading+infra+%7C+Python+%2B+React;LLM-powered+products%2C+from+idea+to+prod" alt="typing banner" />
   </a>
 </p>
 
-<p align="center">
-  <b>Full-Stack Developer & Data / AI Engineer</b><br/>
-  Building real-time trading + AI-driven web platforms · based in Italy 🇮🇹
-</p>
-
+<!-- ====== QUICK LINKS ====== -->
 <p align="center">
   <a href="https://resumeveloce.com"><img src="https://img.shields.io/badge/🌐_resumeveloce.com-0a66c2?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/vishva-teja-janne/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jvishvateja26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!-- ====== STATUS BADGES ====== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishvaAllen&style=flat-square&color=blueviolet" alt="profile views" />
+  <img src="https://img.shields.io/badge/Based_in-Italy_🇮🇹-008C45?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to-Collaborations-7B42BC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI_%2B_Trading_Infra-F46800?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=VishvaAllen&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 Currently shipping
+## 🚀 Currently shipping
 
-**[Resume Veloce](https://resumeveloce.com)** — three products on one platform: a free ATS-ready resume builder, an international job board for English-speaking roles, and a €19+ job-posting tool with auto-distribution to LinkedIn, Reddit, Hacker News + 6 more channels. Plus 20+ free PDF tools and three viral roasters. *(Built solo, shipped to prod.)*
-→ [Showcase repo](https://github.com/VishvaAllen/resumeveloce-showcase)
+> **[Resume Veloce](https://resumeveloce.com)** — three products on one platform.
+>
+> A free **ATS-ready resume builder**, an international **job board** for English-speaking roles, and a **€19+ job-posting tool** with auto-distribution to LinkedIn, Reddit, Hacker News + 6 more channels. Plus 20+ free PDF tools and three viral roasters.
+>
+> *Built solo. Shipped to production. Generating revenue.*
+>
+> → **[Architecture & stack write-up](https://github.com/VishvaAllen/resumeveloce-showcase)** · **[Live site](https://resumeveloce.com)**
 
-Plus private work on **crypto / trading infra** (Kraken APIs, real-time market data, automation).
-
----
-
-### 🧠 AI / ML workloads
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-- **LLM-powered features** in production (resume rewriting, ATS scoring, content tools)
-- **RAG pipelines** with vector stores for context-aware search
-- **Predictive analytics** on energy & trading market data
-- **Prompt engineering + evals** for shipping reliable AI features
+Plus private work on **crypto / Kraken trading infra** (real-time market data, automation, risk).
 
 ---
 
-### ⚙️ DevOps & Cloud
+## 🧠 AI / ML workloads
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-- Containerized services on **Azure** with **Docker** + zero-downtime deploys
-- **CI/CD** via GitHub Actions — automated tests, builds, deploys
-- **Infra-as-code** with Terraform for reproducible environments
-- **Observability** stack: Prometheus + Grafana dashboards on hot paths
+`LLM features in production` · `RAG pipelines with vector stores` · `predictive analytics on market data` · `prompt engineering + evals`
 
 ---
 
-### 💻 Full-Stack
+## ⚙️ DevOps & Cloud
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
 
----
-
-### 📂 Featured
-
-| Project | What it is |
-|---|---|
-| [**resumeveloce-showcase**](https://github.com/VishvaAllen/resumeveloce-showcase) | Architecture write-up for [resumeveloce.com](https://resumeveloce.com) — 3-product platform |
-| [**intus**](https://github.com/VishvaAllen/intus) | JavaScript project |
-| 🔒 *Private* | Crypto / Kraken trading infra · trading dashboards · client work |
+`containerized services on Azure` · `CI/CD with zero-downtime deploys` · `infra-as-code with Terraform` · `Prometheus + Grafana observability`
 
 ---
 
-### 📌 Currently
+## 💻 Full-Stack
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+## 📂 Featured
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Resume Veloce</h3>
+      <p><b>Production · solo-built · multi-product</b></p>
+      <p>ATS-ready resume builder, international job board, and €19+ job-posting platform with 9-channel auto-distribution. Plus 20+ free PDF tools.</p>
+      <p>
+        <a href="https://resumeveloce.com"><img src="https://img.shields.io/badge/Live-resumeveloce.com-0a66c2?style=flat-square" /></a>
+        <a href="https://github.com/VishvaAllen/resumeveloce-showcase"><img src="https://img.shields.io/badge/Showcase-Repo-555?style=flat-square&logo=github" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 Crypto / Trading Infra</h3>
+      <p><b>Private · production</b></p>
+      <p>Automation and real-time data pipelines on the Kraken API. Risk controls, async order management, and analytics dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Private-lightgrey?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Python_%2B_FastAPI-009688?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ EcoTrade Dashboards</h3>
+      <p><b>Production at EcoTrade S.r.l</b></p>
+      <p>Real-time energy trading front-end (React + Recharts) on top of Flask/FastAPI services. Containerized on Azure with Firebase auth.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Full--Stack_Dev-2496ED?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 intus</h3>
+      <p><b>Public · JavaScript</b></p>
+      <p>JavaScript exploration project.</p>
+      <p>
+        <a href="https://github.com/VishvaAllen/intus"><img src="https://img.shields.io/badge/View-Repo-555?style=flat-square&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishvaAllen&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📌 Currently
 
 - ⚡ Shipping containerized AI features on Azure with zero-downtime deploys
 - 🔬 Building automated trading utilities on the Kraken API
 - 🤖 Exploring agentic workflows for trading-data QA & resume optimization
+- 🎓 M.Sc. Industrial Automation Engineering — University of Pavia, Italy
 - 🤝 Open to collaborations on data / AI / full-stack side projects — DM me on LinkedIn
 
 ---
 
 <p align="center">
-  <i>"Build solo, ship fast, learn from real users."</i>
+  <i>"Build solo. Ship fast. Learn from real users."</i>
+</p>
+
+<!-- ====== FOOTER WAVE ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
 </p>
