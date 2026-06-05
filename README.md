@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%E2%80%A2+Data+%E2%80%A2+AI;Shipping+real-time+systems+on+Azure;Builder+of+resumeveloce.com;Crypto+%2B+trading+infra+%7C+Python+%E2%80%A2+React+%E2%80%A2+FastAPI" alt="typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%E2%80%A2+Data+%E2%80%A2+AI;Shipping+real-time+systems+on+Azure;Builder+of+resumeveloce.com;Crypto+and+trading+infra+%7C+Python+%2B+React" alt="typing banner" />
   </a>
 </p>
 
