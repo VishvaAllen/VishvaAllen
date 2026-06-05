@@ -40,12 +40,12 @@ Plus 20+ free PDF tools and three viral roasters. *(Built solo, shipped to prod.
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 📈 GitHub stats
+### 📂 Featured
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VishvaAllen&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishvaAllen&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+| Project | What it is |
+|---|---|
+| [**resumeveloce-showcase**](https://github.com/VishvaAllen/resumeveloce-showcase) | Architecture + stack write-up for [resumeveloce.com](https://resumeveloce.com) — 3-product platform (resume builder, job board, auto-distributed job posting) |
+| [**intus**](https://github.com/VishvaAllen/intus) | JavaScript project |
 
 ### 📌 Currently
 
