@@ -98,7 +98,7 @@ Plus private work on **crypto / Kraken trading infra** (real-time market data, a
 
 ---
 
-## 📂 Featured
+## 📂 Featured (my own work)
 
 <table>
   <tr>
@@ -121,25 +121,17 @@ Plus private work on **crypto / Kraken trading infra** (real-time market data, a
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ EcoTrade Dashboards</h3>
-      <p><b>Production at EcoTrade S.r.l</b></p>
-      <p>Real-time energy trading front-end (React + Recharts) on top of Flask/FastAPI services. Containerized on Azure with Firebase auth.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Role-Full--Stack_Dev-2496ED?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 intus</h3>
-      <p><b>Public · JavaScript</b></p>
-      <p>JavaScript exploration project.</p>
-      <p>
-        <a href="https://github.com/VishvaAllen/intus"><img src="https://img.shields.io/badge/View-Repo-555?style=flat-square&logo=github" /></a>
-      </p>
-    </td>
-  </tr>
 </table>
+
+---
+
+## 💼 Experience
+
+**EcoTrade S.r.l** — *Full-Stack Developer* · `08/2023 – present`
+Building real-time energy trading dashboards and analytics. React + Recharts/Chart.js front-ends backed by Flask/FastAPI services, containerized on Azure with Firebase auth. *(Employer's product — code stays with the company.)*
+
+**Emax Technologies** — *ERP Analyst* · `05/2022 – 03/2023`
+Power BI dashboards over ERP + SQL Server + SharePoint data. Optimized DAX models and data refreshes for executive decision-making.
 
 ---
 
