@@ -125,16 +125,6 @@ Plus private work on **crypto / Kraken trading infra** (real-time market data, a
 
 ---
 
-## 💼 Experience
-
-**EcoTrade S.r.l** — *Full-Stack Developer* · `08/2023 – present`
-Building real-time energy trading dashboards and analytics. React + Recharts/Chart.js front-ends backed by Flask/FastAPI services, containerized on Azure with Firebase auth. *(Employer's product — code stays with the company.)*
-
-**Emax Technologies** — *ERP Analyst* · `05/2022 – 03/2023`
-Power BI dashboards over ERP + SQL Server + SharePoint data. Optimized DAX models and data refreshes for executive decision-making.
-
----
-
 ## 📌 Currently
 
 - ⚡ Shipping containerized AI features on Azure with zero-downtime deploys
