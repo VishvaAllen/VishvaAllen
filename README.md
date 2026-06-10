@@ -13,6 +13,7 @@
 <!-- ====== QUICK LINKS ====== -->
 <p align="center">
   <a href="https://resumeveloce.com"><img src="https://img.shields.io/badge/🌐_resumeveloce.com-0a66c2?style=for-the-badge" /></a>
+  <a href="https://www.cryptonuova.com/"><img src="https://img.shields.io/badge/🔗_cryptonuova.com-F7931A?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/vishva-teja-janne/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jvishvateja26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -37,6 +38,8 @@
 > *Built solo. Shipped to production. Generating revenue.*
 >
 > → **[Architecture & stack write-up](https://github.com/VishvaAllen/resumeveloce-showcase)** · **[Live site](https://resumeveloce.com)**
+
+Also building **[CryptoNuova](https://www.cryptonuova.com/)** — an educational and research-only site documenting how crypto APIs work, so people can build, learn, and verify the data themselves. **No financial advice, no trading signals, no buy/sell recommendations.**
 
 Plus private work on **crypto / Kraken trading infra** (real-time market data, automation, risk).
 
@@ -121,6 +124,18 @@ Plus private work on **crypto / Kraken trading infra** (real-time market data, a
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 CryptoNuova</h3>
+      <p><b>Educational & research only · live</b></p>
+      <p>Documents how crypto APIs work so you can build, learn, and verify the data yourself. <b>No financial advice, no trading signals, no buy/sell recommendations.</b></p>
+      <p>
+        <a href="https://www.cryptonuova.com/"><img src="https://img.shields.io/badge/Live-cryptonuova.com-F7931A?style=flat-square" /></a>
+        <img src="https://img.shields.io/badge/Scope-Education_%2F_Research-7B42BC?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
@@ -129,6 +144,7 @@ Plus private work on **crypto / Kraken trading infra** (real-time market data, a
 
 - ⚡ Shipping containerized AI features on Azure with zero-downtime deploys
 - 🔬 Building automated trading utilities on the Kraken API
+- 📚 Running **[CryptoNuova](https://www.cryptonuova.com/)** — educational + research-only crypto API documentation (no advice, no signals)
 - 🤖 Exploring agentic workflows for trading-data QA & resume optimization
 - 🎓 M.Sc. Industrial Automation Engineering — University of Pavia, Italy
 - 🤝 Open to collaborations on data / AI / full-stack side projects — DM me on LinkedIn
